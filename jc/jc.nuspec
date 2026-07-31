@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>jar-cart</id>
-    <version>0.5.1</version>
+    <version>0.6.0</version>
     <title>jar-cart: Lightning-Fast Java Build Orchestrator</title>
     <authors>Sudhanshu Ambastha</authors>
     
